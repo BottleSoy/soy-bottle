@@ -1,0 +1,6 @@
+@import "flex.css";
+@import "reset.css";
+
+html {
+    font-family: "JetBrains Mono", "微软雅黑", "华文新魏", serif;
+}
